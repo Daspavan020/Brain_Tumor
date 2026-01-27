@@ -2,7 +2,7 @@
 BrainMRI/
 raw_masks/
 efficientnet_inputs/
-UNet/
+UNet/data/
 # ================= MODELS ===================
 *.h5
 *.pt
