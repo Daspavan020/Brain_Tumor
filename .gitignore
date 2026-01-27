@@ -1,0 +1,26 @@
+# ================= DATASETS =================
+BrainMRI/
+raw_masks/
+efficientnet_inputs/
+UNet/
+# ================= MODELS ===================
+*.h5
+*.pt
+*.onnx
+
+# ================= OUTPUT FILES =============
+*.csv
+*.xlsx
+
+# ================= ENVIRONMENTS =============
+tf_gpu/
+.venv/
+env/
+
+# ================= PYTHON ===================
+__pycache__/
+*.pyc
+
+# ================= SYSTEM ===================
+.DS_Store
+Thumbs.db
